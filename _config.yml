@@ -300,14 +300,13 @@ defaults:
       read_time: true
       sidebar:
         nav: "docs"
+      gallery:
+        - url: /assets/images/tor.png
+          image_path: /assets/images/tor.png
+          alt: "How Tor works"
+          title: "How Tor works"
   
 titles_from_headings:
   enabled:     true
   strip_title: true
   collections: true
- 
-gallery:
-  - url: /assets/images/tor.png
-    image_path: /assets/images/tor.png
-    alt: "How Tor works"
-    title: "How Tor works"
