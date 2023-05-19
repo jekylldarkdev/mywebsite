@@ -304,6 +304,12 @@ defaults:
         video:
         id: mA8pNpPvrr0
         provider: youtube
+        video:
+        id: fsfoqdqyykI
+        provider: youtube
+        video:
+        id: I2O7blSSzpI
+        provider: youtube
 
   
 titles_from_headings:
