@@ -298,7 +298,9 @@ defaults:
       toc: true
       show_date: true
       read_time: true
-
+      sidebar:
+        nav: "docs"
+        
 titles_from_headings:
   enabled:     true
   strip_title: true
