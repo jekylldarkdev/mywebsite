@@ -10,3 +10,17 @@ main:
     url: /terms/
   - title: "Sitemap"
     url: /sitemap.xml
+
+docs:
+  - title: "Expand"
+    children:
+      - title: "Home"
+        url: /
+      - title: "About"
+        url: /about/
+      - title: "Links"
+        url: /links/
+      - title: "Terms"
+        url: /terms/
+      - title: "Sitemap"
+        url: /sitemap.xml
