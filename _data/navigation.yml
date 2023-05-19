@@ -6,6 +6,8 @@ main:
     url: /about/
   - title: "Links"
     url: /links/
+  - title: "Gallery"
+    url: /gallery/
   - title: "Terms"
     url: /terms/
   - title: "Sitemap"
@@ -20,6 +22,8 @@ docs:
         url: /about/
       - title: "Links"
         url: /links/
+      - title: "Gallery"
+        url: /gallery/
       - title: "Terms"
         url: /terms/
       - title: "Sitemap"
