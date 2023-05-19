@@ -12,7 +12,7 @@ main:
     url: /sitemap.xml
 
 docs:
-  - title: "Expand"
+  - title: "Content"
     children:
       - title: "Home"
         url: /
