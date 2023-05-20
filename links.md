@@ -51,3 +51,18 @@ permalink: /links/
 [Electrum Wallet](https://electrum.org/){:target="_blank"}{:rel="noopener"}
 
 [Blockchair](https://blockchair.com/){:target="_blank"}{:rel="noopener"}
+
+## Clearnet links
+
+### Cybersecurity news
+
+[CYWARE](https://cyware.com/cyber-security-news-articles/){:target="_blank"}{:rel="noopener"}
+
+[The Hacker News](https://thehackernews.com/){:target="_blank"}{:rel="noopener"}
+
+[Portswigger](https://portswigger.net/daily-swig/hacking-news/){:target="_blank"}{:rel="noopener"}
+
+[Wired](https://www.wired.com/tag/hacking/){:target="_blank"}{:rel="noopener"}
+
+
+
